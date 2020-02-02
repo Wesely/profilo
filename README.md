@@ -5,9 +5,9 @@ Profilo is an Android library for collecting performance *traces* from productio
 
 ## Index
 
-1. [Getting started](https://facebookincubator.github.io/profilo/docs/getting-started.html)
-2. [Internal architecture](https://facebookincubator.github.io/profilo/docs/architecture.html)
-3. [Trace processing and analysis](https://facebookincubator.github.io/profilo/docs/trace-processing.html)
+1. [Getting started](https://facebookincubator.github.io/profilo/docs/getting-started)
+2. [Internal architecture](https://facebookincubator.github.io/profilo/docs/architecture)
+3. [Trace processing and analysis](https://facebookincubator.github.io/profilo/docs/trace-processing)
 
 ## APIs
 
